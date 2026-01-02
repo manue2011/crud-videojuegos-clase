@@ -1,0 +1,26 @@
+body {
+    background-color: #f0f2f5;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.card {
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    border: none; 
+    border-radius: 10px;
+}
+
+.game-card {
+    transition: transform 0.2s, box-shadow 0.2s;
+    cursor: default;
+}
+
+.game-card:hover {
+    transform: translateY(-5px); /* Efecto de levitación */
+    box-shadow: 0 10px 15px rgba(0,0,0,0.15);
+}
+
+/* Un toque extra para los botones */
+.btn {
+    border-radius: 8px;
+    font-weight: 500;
+}
