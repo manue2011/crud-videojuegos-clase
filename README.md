@@ -15,13 +15,11 @@ Puedes ver el proyecto funcionando en vivo aquí:
 
 ---
 
-## 📸 Capturas de Pantalla
+## 📸 Captura de Pantalla
 
-<<<<<<< HEAD
-=======
 <img width="1903" height="955" alt="image" src="https://github.com/user-attachments/assets/c2dfb748-3b49-4265-ab84-e39735937da1" />
 
->>>>>>> c061511d6d7e9e9b6bfb06cdbaec7f9e43c55209
+
 
 ---
 
@@ -40,11 +38,7 @@ Puedes ver el proyecto funcionando en vivo aquí:
 2.  **Leer:** Visualización dinámica de todos los juegos en tarjetas.
 3.  **Actualizar:** Posibilidad de editar los datos de cualquier juego y cambiar su estado (Pendiente/Jugando/Terminado).
 4.  **Borrar:** Eliminación de juegos con confirmación de seguridad.
-<<<<<<< HEAD
 
-=======
->>>>>>> c061511d6d7e9e9b6bfb06cdbaec7f9e43c55209
----
 
 ## 🔧 Instalación y Uso Local
 
@@ -109,10 +103,5 @@ La aplicación expone los siguientes endpoints RESTful:
 
 ## ✒️ Autor
 
-<<<<<<< HEAD
-=======
 * **Manuel Zarate** - *Desarrollo y Documentación*
 * **Estudiante de:** [Desarrollo de aplicaciones web]
-
----
->>>>>>> c061511d6d7e9e9b6bfb06cdbaec7f9e43c55209
