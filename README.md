@@ -104,4 +104,4 @@ La aplicación expone los siguientes endpoints RESTful:
 ## ✒️ Autor
 
 * **Manuel Zarate** - *Desarrollo y Documentación*
-* **Estudiante de:** [Desarrollo de aplicaciones web]
+* **Estudiante de:** Desarrollo de aplicaciones web
