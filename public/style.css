@@ -1,12 +1,20 @@
 body {
-    background-color: #f0f2f5;
+    background-image: url('img3.webp');
+    background-size: cover; 
+    background-position: center center;
+    background-attachment: fixed; 
+    background-color: #333; 
+
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white; 
 }
 
 .card {
-    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
-    border: none; 
+    background-color: rgba(255, 255, 255, 0.95);
+    box-shadow: 0 4px 6px rgba(0,0,0,0.3); 
+    border: none;
     border-radius: 10px;
+    color: black; 
 }
 
 .game-card {
